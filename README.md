@@ -8,16 +8,19 @@ Visual Studio Code.
 ## ALGORITHM:
 1) Create a new HTML file and save it with a .html extension.Begin with the basic structure by adding the <!DOCTYPE html> declaration at the top.
 2) Set up the Head:
+
        Inside the <head> element, add the <title> element and give it a meaningful title for your website.
        Link your CSS file by adding the <link> element with the rel attribute set to "stylesheet" and 
        the href attribute pointing to your CSS file.
 
 3) Develop the Content:
+
         Divide the main content area into sections using appropriate HTML elements like <section>, <div>, or <article>.
         Use headings <h1> to <h6> to structure your content hierarchically.
         Incorporate text, images, videos, and other media within the content sectionS
 
 4) Style with CSS:
+
   Create a new CSS file and save it with a .css extension.
   Select the elements you want to style using CSS selectors.
   Apply styles using properties and values. 
